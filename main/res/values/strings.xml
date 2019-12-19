@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toma</string>
+    <string name="timer">Timer</string>
+    <string name="history">History</string>
+    <string name="start">Start</string>
+    <string name="home">Return</string>
+    <string name="clock_image">ClockImage</string>
+    <string name="image_button">ImageButton</string>
+    <string name="data_item_image">DataItemImage</string>
+</resources>
