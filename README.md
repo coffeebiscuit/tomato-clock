@@ -20,9 +20,9 @@ Display the homepage with a RecyclerView.
 Start a new CountDownTimer for 5-90 min.  
 Select time duration with custom NumberPicker (TextConfigNumberPicker.java).
 
-### Histoty
+### History
 Display finished timers.  
 All records are stored in Room database.
 
-### Recyeler_item
+### Recyeler item
 Show images and text in RecyclerView.
