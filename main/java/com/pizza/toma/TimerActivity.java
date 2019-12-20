@@ -148,9 +148,9 @@ public class TimerActivity extends AppCompatActivity implements View.OnClickList
 
             public void onFinish() {
                 timerTextView.setText("Finish!");
-                // If longer than 25 min, produce a random result between 1-9
-                //int type = timeValue < 25 ? 0 : (int) ( 1 + Math.random() * (9));
-                int type = (int) ( 1 + Math.random() * (9));
+                // If longer than 25 min, produce a random result between 1-9, otherwise 0.
+                //int type = (int) ( 1 + Math.random() * (10));
+                int type = timeValue < 25 ? 0 : (int) ( 1 + Math.random() * (9));              
                 SaveData(startTime, timeValue, type);
                 PlaySound(1);
             }
