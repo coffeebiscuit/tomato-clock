@@ -21,7 +21,7 @@
         app:layout_constraintTop_toTopOf="@+id/guidelineTop"
         app:layout_constraintWidth_default="percent"
         app:layout_constraintWidth_percent="0.6"
-        app:srcCompat="@mipmap/tomato_512px" />
+        app:srcCompat="@mipmap/timer_bg_512px" />
 
     <!--NumberPicker
         android:id="@+id/numberPicker"
@@ -38,7 +38,7 @@
         app:layout_constraintVertical_bias="0.7" /-->
 
     <!-- Use custom modified NumberPicker instead of original -->
-    <com.example.toma.TextConfigNumberPicker
+    <com.pizza.toma.TextConfigNumberPicker
         android:id="@+id/numberPicker"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
