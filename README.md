@@ -17,11 +17,11 @@ Android tomato clock app. Just for coursework but I like the images.
 Display the homepage with a RecyclerView.
 
 ### Timer
-Start a new CountDownTimer for 5-90 min.
+Start a new CountDownTimer for 5-90 min.  
 Select time duration with custom NumberPicker (TextConfigNumberPicker.java).
 
 ### Histoty
-Display finished timers.
+Display finished timers.  
 All records are stored in Room database.
 
 ### Recyeler_item
