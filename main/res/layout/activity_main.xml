@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="@+id/guidelineTop"
         app:layout_constraintWidth_default="percent"
         app:layout_constraintWidth_percent="0.6"
-        app:srcCompat="@mipmap/tomato_512px" />
+        app:srcCompat="@mipmap/timer_bg_512px" />
 
     <TextView
         android:id="@+id/dateView"
