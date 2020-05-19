@@ -1,5 +1,6 @@
 # tomato-clock
-Android tomato clock app. Just for coursework but I like the images.
+Android tomato clock app. Just for coursework but I like its cute appearance :)
+(Also, have gotten a high mark.)
 
 ## Structure
 * MainActivity
