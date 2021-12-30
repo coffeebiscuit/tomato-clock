@@ -1,5 +1,5 @@
 # tomato-clock
-Minimal android tomato clock app.
+Mini tomato clock app for android OS.
 
 ## Structure
 * MainActivity
@@ -24,5 +24,5 @@ Select time duration with custom NumberPicker (TextConfigNumberPicker.java).
 Display finished timers.  
 All records are stored in Room database.
 
-### Recyeler item
+### Recyeler
 Show images and text in RecyclerView.
